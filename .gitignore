@@ -1,0 +1,18 @@
+# Node system files
+/node_modules
+
+# compiled output
+/dist
+/tmp
+/out-tsc
+
+# IDEs and editors
+/.idea
+
+# misc
+npm-debug.log
+/typings
+
+# System Files
+.DS_Store
+
