@@ -36,12 +36,29 @@ String literal types allow you to specify the exact value a string must have. In
 nicely with union types, type guards, and type aliases. You can use these features together to get enum-like behavior 
 with strings.
 
-**[Barrel](https://angular.io/docs/ts/latest/guide/glossary.html#!#barrel)
+**[Barrel](https://angular.io/docs/ts/latest/guide/glossary.html#!#barrel)**
 A way to roll up exports from several ES2015 modules into a single convenient ES2015 module. The barrel itself is an 
 ES2015 module file that re-exports selected exports of other ES2015 modules.
 
-**[:host selector specification](https://www.w3.org/TR/css-scoping-1/#host-selector)
+**[:host selector specification](https://www.w3.org/TR/css-scoping-1/#host-selector)**
 Selecting Into the Light: the :host, :host(), and :host-context() pseudo-classes.
 
-**[Angular Documentation for using :host selector}(https://angular.io/docs/ts/latest/guide/component-styles.html#!#sts=:host)
+**[Angular Documentation for using :host selector](https://angular.io/docs/ts/latest/guide/component-styles.html#!#sts=:host)**
 Angular can bundle component styles with components, enabling a more modular design than regular stylesheets.
+
+**[Selecting Into the Light: the :host, :host(), and :host-context() pseudo-classes](https://www.w3.org/TR/css-scoping-1/#host-selector)**
+
+**[Structural Directive (NgIf, NgFor) Documentation](https://angular.io/docs/ts/latest/guide/structural-directives.html)**
+Angular has a powerful template engine that lets us easily manipulate the DOM structure of our elements. How Angular 
+manipulates the DOM with structural directives and how you can write your own structural directives to do the same 
+thing.
+
+**[Attribute Directive (NgClass, NgStyle) Documentation](https://angular.io/docs/ts/latest/guide/attribute-directives.html)**
+An Attribute directive changes the appearance or behavior of a DOM element.
+
+**[Template Syntax](https://angular.io/docs/ts/latest/guide/template-syntax.html)**
+The Angular application manages what the user sees and can do, achieving this through the interaction of a component 
+class instance (the component) and its user-facing template.
+
+Consider the component/template duality based on model-view-controller (MVC) or model-view-viewmodel (MVVM). In Angular, 
+the component plays the part of the controller/viewmodel, and the template represents the view.
