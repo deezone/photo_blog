@@ -5,3 +5,6 @@
     <figcaption>{{description}}</figcaption>
 </figure>
 
+<div class="actions">
+    <button type="button" (click)="isLiked = !isLiked" [ngClass]="{liked: isLiked}">❤</button>
+</div>
