@@ -16,6 +16,7 @@ An exercise to learn Angular from TreeHouse.
 An Angular application is made up of series of Components. A component has a template, styles, and handles business 
 logic.
 - [Angular Style Guide](https://angular.io/docs/ts/latest/guide/style-guide.html)
+- [Resources](https://angular.io/resources/)
 
 **Component Decorator**
 Components are the backbone of an Angular application. The Component Decorator is for defining a component and 
@@ -62,3 +63,6 @@ class instance (the component) and its user-facing template.
 
 Consider the component/template duality based on model-view-controller (MVC) or model-view-viewmodel (MVVM). In Angular, 
 the component plays the part of the controller/viewmodel, and the template represents the view.
+
+**[Modules](https://angular.io/docs/ts/latest/api/#!?query=module)**
+Index of Angular modules available for addition to an Angual application to add functionality.
