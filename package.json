@@ -1,5 +1,9 @@
 {
   "name": "photoblog",
+  "version": "0.1.0",
+  "description": "An exercise to learn Angular.",
+  "repository": "https://github.com/DeeZone/photo_blog",
+  "license": "MIT",
   "scripts": {
     "postinstall": "npm run build",
     "serve": "webpack-dev-server --config config/develop.config.js --inline --progress --port 8080",
@@ -12,6 +16,7 @@
     "@angular/http": "^2.4.2",
     "@angular/platform-browser": "2.4.2",
     "@angular/platform-browser-dynamic": "2.4.2",
+    "angular-in-memory-web-api": "0.2.4",
     "core-js": "2.4.1",
     "ie-shim": "0.1.0",
     "rxjs": "5.0.3",
