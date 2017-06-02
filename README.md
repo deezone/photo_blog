@@ -76,3 +76,10 @@ returns the promise to the caller.
 **[Public, Private and Protected Modifiers](http://www.typescriptlang.org/docs/handbook/classes.html#public-private-and-protected-modifiers)**
 
 **[Generics](https://www.typescriptlang.org/docs/handbook/generics.html)**
+
+**[Angular In Memory Web API](https://github.com/angular/in-memory-web-api)**
+An in-memory web api for Angular demos and tests. It intercepts Angular Http requests that would otherwise go to the 
+remote server via the Angular XHRBackend service.
+
+**[Life Cycle Hooks](https://angular.io/docs/ts/latest/guide/lifecycle-hooks.html)**
+Angular calls lifecycle hook methods on directives and components as it creates, changes, and destroys them.
