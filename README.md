@@ -86,3 +86,6 @@ Angular calls lifecycle hook methods on directives and components as it creates,
 
 **[Angular Forms](https://angular.io/docs/ts/latest/guide/forms.html)**
 An Angular form coordinates a set of data-bound user controls, tracks changes, validates input, and presents errors.
+
+**[Augury Chrome Developer Tools Extension](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd)**
+Extends the Developer Tools, adding tools for debugging and profiling Angular applications.
