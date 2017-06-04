@@ -89,3 +89,6 @@ An Angular form coordinates a set of data-bound user controls, tracks changes, v
 
 **[Augury Chrome Developer Tools Extension](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd)**
 Extends the Developer Tools, adding tools for debugging and profiling Angular applications.
+
+**[TypeScript Generics](https://www.typescriptlang.org/docs/handbook/generics.html)**
+A component that can work over a variety of types rather than a single one.
