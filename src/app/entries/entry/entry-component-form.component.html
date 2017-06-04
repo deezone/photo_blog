@@ -1,11 +1,11 @@
 <form>
     <div>
         <label for="name">Name</label>
-        <input type="text" name="name" />
+        <input type="text" name="name" [(ngModel)]="name" />
     </div>
     <div>
         <label for="comment">Comment</label>
-        <textarea name="comment"></textarea>
+        <textarea name="comment" [(ngModel)]="comment"></textarea>
     </div>
     <div>
         <button>Submit</button>
