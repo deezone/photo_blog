@@ -13,5 +13,5 @@
     <div class="comment" *ngFor="let comment of entry.comments">
         <p><strong>{{comment.name}}</strong> {{comment.comment}}</p>
     </div>
-    <app-entry-component-form></app-entry-component-form>
+    <app-entry-component-form (onCommentAdded)="onCommentAdded($event)"></app-entry-component-form>
 </div>
