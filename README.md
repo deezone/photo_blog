@@ -7,7 +7,7 @@ An exercise to learn Angular from TreeHouse.
 2. Run `npm install`
 3. Start the server `npm run serve`
 
-The `npm run serve` traspiles the code and starts a webserver on port `8080`. Access the page 
+`npm run serve` traspiles the code and starts a webserver on port `8080`. Access the page 
 via: `http://localhost:8080`.
 
 
@@ -97,3 +97,7 @@ Extends the Developer Tools, adding tools for debugging and profiling Angular ap
 A component that can work over a variety of types rather than a single one.
 
 **[HTML5 Form Validation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)**
+
+**[NgIf Case Study and Documentation](https://angular.io/guide/structural-directives#!#ngIf)**
+A  guide looks at how Angular manipulates the DOM with structural directives and how you can write your own structural 
+directives to do the same thing.
