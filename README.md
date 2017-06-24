@@ -7,6 +7,9 @@ An exercise to learn Angular from TreeHouse.
 2. Run `npm install`
 3. Start the server `npm run serve`
 
+The `npm run serve` traspiles the code and starts a webserver on port `8080`. Access the page 
+via: `http://localhost:8080`.
+
 
 ###Development Notes
 
@@ -92,3 +95,5 @@ Extends the Developer Tools, adding tools for debugging and profiling Angular ap
 
 **[TypeScript Generics](https://www.typescriptlang.org/docs/handbook/generics.html)**
 A component that can work over a variety of types rather than a single one.
+
+**[HTML5 Form Validation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)**
