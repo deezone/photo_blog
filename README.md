@@ -101,3 +101,28 @@ A component that can work over a variety of types rather than a single one.
 **[NgIf Case Study and Documentation](https://angular.io/guide/structural-directives#!#ngIf)**
 A  guide looks at how Angular manipulates the DOM with structural directives and how you can write your own structural 
 directives to do the same thing.
+
+**[Angular Documentation](https://angular.io/docs)**
+Angular is a platform that makes it easy to build applications with the web. Angular combines declarative templates,
+dependency injection, end to end tooling, and integrated best practices to solve development challenges. Angular
+empowers developers to build applications that live on the web, mobile, or the desktop.
+
+**[Angular CLI](https://cli.angular.io/)**
+The Angular CLI makes it easy to create an application that already works, right out of the box. A generator of a
+basic structure of an Angular application that follows best practices.
+
+The Angular team has put a lot of thought into how best to build an Angular application. Angular's command line
+interface is a tool to help you quickly build out components and a testing framework with your application.
+
+**[TypeScript Configuration](https://angular.io/guide/typescript-configuration)**
+A guide to some aspects of TypeScript configuration and the TypeScript environment that are important to Angular
+developers, including details about the following files:
+
+- tsconfig.json—TypeScript compiler configuration.
+- typings—TypesScript declaration files.
+
+**[Angular Style Guide](https://angular.io/guide/styleguide)**
+The Angular style guide presents preferred conventions including explainations of why.
+
+**[Angular Cheat Sheet](https://angular.io/guide/cheatsheet)**
+**[Angular GitHub Repository](https://github.com/angular/angular)**
